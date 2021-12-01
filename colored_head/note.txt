@@ -1,4 +1,0 @@
-!IMPORTANT!
-Do not remove the `_black`, `_blue`, `_green`, etc. in the costume name!
-
-Use `head.anm2` for this and set `hasSkinAlt="true"` in costumes2.xml
