@@ -3,15 +3,17 @@ This repo contains easy to use costume references/templates for Repentance.
 
 It does not contain instructions on how to apply them. 
 
-All provided textures have the left side flipped from the right side.
-That means the left side of a costume will be the same as the right side.
-
-
+In all of the costumes, except for Full costumes, the left side is the right side, flipped. In the case of the body costume, the walk down animation is also the walk up animation.
 # Contents
 - Head texture and anm2
+  - Standard
+  - Colored
+  - Full
 - Body texture and anm2
-- Colored head and body textures for skin colors
-- Combined head and body anm2
+  - Standard
+  - Colored
+  - Full
+- Combined body & head anm2
 
 # Usage
 
@@ -33,3 +35,6 @@ Changing that will result in the color costume not applying correctly.
 
 In order to mark a costume as a color costume, add `hasSkinAlt="true"` to the costume's entry in `costumes2.xml`
 
+## Animated costumes
+Change the spritesheet until you're satisfied.
+When you're done, add `hasOverlay="true"` to the costume's entry in `costumes2.xml`
