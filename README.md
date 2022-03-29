@@ -9,6 +9,7 @@ In all of the costumes, except for Full costumes, the left side is the right sid
   - Standard
   - Colored
   - Full
+  - Animated
 - Body texture and anm2
   - Standard
   - Colored
